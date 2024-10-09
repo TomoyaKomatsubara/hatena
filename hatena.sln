@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hatena", "hatena.vcxproj", "{B0D48A43-E57B-429C-91F8-470E9A35C9E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D48A43-E57B-429C-91F8-470E9A35C9E8}.Debug|x64.ActiveCfg = Debug|x64
+		{B0D48A43-E57B-429C-91F8-470E9A35C9E8}.Debug|x64.Build.0 = Debug|x64
+		{B0D48A43-E57B-429C-91F8-470E9A35C9E8}.Release|x64.ActiveCfg = Release|x64
+		{B0D48A43-E57B-429C-91F8-470E9A35C9E8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61A68F6E-3D1D-4358-8286-60F2676F2338}
+	EndGlobalSection
+EndGlobal
